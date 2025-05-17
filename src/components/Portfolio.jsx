@@ -42,8 +42,14 @@ const Portfolio = () => {
     {
       id: 6,
       src: portfolio,
-      codeLink: 'https://github.com/Nyfaasmin?tab=repositories',
+      codeLink: 'https://github.com/Nyfaasmin/portfolio',
       hoverText: 'Portfolio',
+    },
+    {
+      id: 7,
+      src: Stop Watch,
+      codeLink: 'https://github.com/Nyfaasmin/stopwatch',
+      hoverText: 'Stop Watch',
     },
 
   ];
