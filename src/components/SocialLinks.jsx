@@ -14,7 +14,7 @@ const SocialLinks = () => {
                 LinkedIn <FaLinkedin size={30}/>
                 </>
             ),
-            href:'http://www.linkedin.com/in/nyfa-asmin-713838255',
+            href:'https://www.linkedin.com/in/nyfa-asmin-pathan-713838255/',
             style: 'rounded-tr-md',
         },
         {
@@ -55,7 +55,7 @@ const SocialLinks = () => {
                 Resume <BsFillPersonLinesFill size={30}/>
                 </>
             ),
-            href:'/22b01a05e6_NyfaAsminPathan.pdf',
+            href:'',
             style: 'rounded-br-md',
             download: true,
         },
