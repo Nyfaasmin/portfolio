@@ -5,6 +5,7 @@ import VRCampus from '../assets/portfolio/vrcampus.jpg';
 import Hackhotel from '../assets/portfolio/sqlinjection.jpg';
 import wikipedia from '../assets/portfolio/wikipedia.jpg';
 import portfolio from '../assets/portfolio/portfolio.jpg';
+import StopWatch from '../assets/portfolio/stop watch.jpg';
 const Portfolio = () => {
   const [hoveredId, setHoveredId] = useState(null); // State to track which image is hovered
 
@@ -47,7 +48,7 @@ const Portfolio = () => {
     },
     {
       id: 7,
-      src: Stop Watch,
+      src: StopWatch,
       codeLink: 'https://github.com/Nyfaasmin/stopwatch',
       hoverText: 'Stop Watch',
     },
